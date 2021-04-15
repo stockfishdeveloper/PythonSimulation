@@ -1,0 +1,6 @@
+Function specification:
+
+Move ball function:
+Parameters: centerx, centery, velocityx, velocityy
+Returns:
+centerx, centery tuple which is the coordinates of the next ball position
